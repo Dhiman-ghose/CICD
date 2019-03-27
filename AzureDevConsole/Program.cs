@@ -10,7 +10,7 @@ namespace AzureDevConsole
     {
         static void Main(string[] args)
         {
-            a=b;
+            string a="";
         }
     }
 }
